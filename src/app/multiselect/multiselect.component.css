@@ -1,0 +1,10 @@
+.multiselect-label{
+    margin: .6em;
+  }
+.list-group-item.active{
+    border-color: grey;
+}  
+.list-group.checked-list-box {
+    height:150px;
+    overflow-y: scroll;
+  }
